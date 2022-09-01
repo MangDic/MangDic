@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangDic&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=remge007)](https://solved.ac/remge007/)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leemyungjic.tistory.com/)](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leemyungjic.tistory.com/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag)](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
