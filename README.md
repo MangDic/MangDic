@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=remge007)](https://solved.ac/remge007/)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leemyungjic.tistory.com/)](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leemyungjic.tistory.com/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag)](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag)
+<a href="https://leemyungjic.tistory.com/“><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leemyungjic.tistory.com"/></a> <a href="https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag/“><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCl454FlJJXn_hLLG31JTOag"/></a>
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
