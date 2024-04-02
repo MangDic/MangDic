@@ -1,4 +1,4 @@
-## 아주 멋진 iOS 개발자 망딕!
+## iOS 개발자 이명직
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangDic&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
